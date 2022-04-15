@@ -1,5 +1,5 @@
 import random
-
+#cool
 class player():
     def __init__(self,name,pronouns,h = 100,a = 0):
         self.name = name
